@@ -313,4 +313,9 @@ p {
 		left: 0px;
 		width: 100%;
 	}
+
+	.close {
+		margin-right: 20px;
+	}
+
 }

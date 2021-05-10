@@ -159,7 +159,6 @@ p {
 }
 
 #background {
-	background-color: #cccccc;
 	margin: 0 auto;
 	max-width: 1220px;
 }
@@ -172,78 +171,10 @@ p {
 	margin: 0 auto;
 }
 
-#six {
-	display: block;
-}
-
-#six svg {
+#six img {
 	margin-bottom: -3.9em;
-}
-
-#second {
-	margin-top: -33.9em;
-}
-
-.first {
-	margin-bottom: 0;
-	font-family: 'Righteous', cursive;
-	color: #222222;
-	font-size: 2em;
-}
-
-.second {
-	margin-bottom: 0;
-	float: right;
-	font-family: 'Righteous', cursive;
-	color: #222222;
-	font-size: 2em;
-}
-
-.third {
-	margin-bottom: 0;
-	font-family: 'Righteous', cursive;
-	color: #222222;
-	font-size: 2em;
-	text-align: right;
-}
-
-/*.pic1 {
-	font-family: 'Righteous', cursive;
-	color: #222222;
-	font-size: 1.5em;
-	margin: 0em;
-}
-
-.pic1sub {
-	font-family: 'Righteous', cursive;
-	color: #222222;
-	font-size: 1em;
-	margin: 0em;
-}
-
-.pic2 {
-	font-family: 'Righteous', cursive;
-	color: #222222;
-	font-size: 1.5em;
-	margin: 0em;
-	text-align: right;
-}
-
-.pic2sub {
-	font-family: 'Righteous', cursive;
-	color: #222222;
-	font-size: 1em;
-	margin: 0em;
-	text-align: right;
-}*/
-
-#third {
-	margin-top: -39.6em;
-}
-
-#first {
-	font-family: 'Righteous', cursive;
-	color: #222222;
+	margin-top: -5em;
+	width: 100%;
 }
 
 #Scroll {
@@ -291,6 +222,10 @@ p {
 
 	.close {
 		margin-right: 20px;
+	}
+
+	.navmenu a {
+		font-size: 1.5em;
 	}
 
 }
